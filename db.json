@@ -1,0 +1,204 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apples are sweet, crunchy fruits perfect for snacking. They come in a variety of flavors and colors, ranging from tart to sweet. Their high fiber content makes them ideal for digestion.",
+      "nutritional_value": "Apples are rich in dietary fiber, which aids digestion. They are also a great source of vitamin C and antioxidants. Low in calories, apples are a nutritious snack for any time of the day.",
+      "imageurl": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+      "price": 1.5,
+      "previous_price": 2.0,
+      "type": "Fruits"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Breast",
+      "description": "Chicken breast is a lean, protein-rich meat. It is versatile, low in fat, and can be cooked in numerous ways. It is commonly used in health-conscious meals.",
+      "nutritional_value": "Chicken breast is high in protein, making it excellent for muscle building. It is also low in fat and a good source of B vitamins, which support energy metabolism. It has minimal carbohydrates.",
+      "imageurl": "https://eatilo.in/wp-content/uploads/2021/03/7bfc5e2d-3857-4f3e-a736-222c7a617b67.webp",
+      "price": 5.99,
+      "previous_price": 7.49,
+      "type": "Meat"
+    },
+    {
+      "id": 3,
+      "name": "Whole Milk",
+      "description": "Whole milk is creamy and nutrient-dense, providing essential vitamins and minerals. It’s a staple in many households for its versatility in cooking and baking. Its rich flavor makes it a favorite.",
+      "nutritional_value": "Whole milk is a good source of calcium, which is essential for bone health. It also contains vitamin D, aiding calcium absorption, and is rich in protein for muscle repair. Its fat content provides energy.",
+      "imageurl": "https://i5.walmartimages.com/seo/Great-Value-Milk-Whole-Vitamin-D-Gallon-Plastic-Jug_6a7b09b4-f51d-4bea-a01c-85767f1b481a.86876244397d83ce6cdedb030abe6e4a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "price": 3.25,
+      "previous_price": 4.0,
+      "type": "Dairy"
+    },
+    {
+      "id": 4,
+      "name": "Almonds",
+      "description": "Almonds are a crunchy and nutrient-packed snack. They are perfect for snacking, adding to meals, or using as a topping for salads. Their natural oils make them heart-healthy.",
+      "nutritional_value": "Almonds are rich in healthy fats, primarily monounsaturated fats, which support heart health. They are also a great source of fiber, protein, and vitamin E. Their antioxidants help combat oxidative stress.",
+      "imageurl": "https://www.dryfruitbasket.in/storage/media/post/202312201637_post_surprising-facts-about-almonds.png",
+      "price": 7.99,
+      "previous_price": 9.5,
+      "type": "Snacks"
+    },
+    {
+      "id": 5,
+      "name": "Frozen Peas",
+      "description": "Frozen peas are a convenient and nutritious vegetable. They can be used in a variety of dishes, from soups to side dishes. They retain most of their nutrients even when frozen.",
+      "nutritional_value": "Frozen peas are high in fiber, supporting digestive health. They also provide a good amount of plant-based protein and are rich in vitamins A and C, which promote immune function and skin health.",
+      "imageurl": "https://5.imimg.com/data5/ZP/MT/DU/SELLER-70813520/frozen-broccoli.jpg",
+      "price": 2.5,
+      "previous_price": 3.0,
+      "type": "Frozen"
+    },
+    {
+      "id": 6,
+      "name": "Salmon Fillet",
+      "description": "Salmon fillet is a flavorful fish rich in healthy omega-3 fatty acids. It is often grilled, baked, or pan-seared. Salmon is a favorite in many diets for its nutrient-dense profile.",
+      "nutritional_value": "Salmon is an excellent source of protein and contains heart-healthy omega-3 fatty acids. It is also rich in vitamin D and selenium, supporting immune and thyroid function. Its fats promote brain health.",
+      "imageurl": "https://www.bigbasket.com/media/uploads/p/xl/800364596_1-fresho-atlantic-salmon-fillet.jpg",
+      "price": 12.99,
+      "previous_price": 14.99,
+      "type": "Fish"
+    },
+    {
+      "id": 7,
+      "name": "Whole Wheat Bread",
+      "description": "Whole wheat bread is a staple for those seeking healthier grains. It is made from whole wheat flour, which retains more nutrients. It is perfect for sandwiches and toast.",
+      "nutritional_value": "Whole wheat bread is high in dietary fiber, which promotes digestive health. It contains more vitamins and minerals compared to white bread, such as B vitamins and iron. It also provides slow-digesting carbohydrates.",
+      "imageurl": "https://thebusybaker.ca/wp-content/uploads/2015/02/easy-whole-grain-sandwich-bread-6.jpg",
+      "price": 3.0,
+      "previous_price": 3.75,
+      "type": "Wheat"
+    },
+    {
+      "id": 8,
+      "name": "Carrots",
+      "description": "Carrots are crunchy, sweet, and highly nutritious vegetables. They can be eaten raw or cooked and are a popular addition to salads and soups. Their vibrant color is appealing.",
+      "nutritional_value": "Carrots are rich in beta-carotene, a precursor to vitamin A, which supports eye health. They are also a good source of fiber and antioxidants, promoting digestion and immune function. They are low in calories.",
+      "imageurl": "https://smartyield.in/wp-content/uploads/2021/06/Carrot-.png",
+      "price": 1.2,
+      "previous_price": 1.5,
+      "type": "Vegetables"
+    },
+    {
+      "id": 9,
+      "name": "Greek Yogurt",
+      "description": "Greek yogurt is thick, creamy, and packed with protein. It can be eaten plain, with fruit, or used as a base for smoothies. It has a tangy taste and is a great source of probiotics.",
+      "nutritional_value": "Greek yogurt is an excellent source of protein, providing nearly double the amount found in regular yogurt. It contains probiotics, which promote gut health, and is rich in calcium and vitamin B12.",
+      "imageurl": "https://cdn.jwplayer.com/v2/media/gMk28utp/poster.jpg?width=720",
+      "price": 4.5,
+      "previous_price": 5.2,
+      "type": "Dairy"
+    },
+    {
+      "id": 10,
+      "name": "Blueberries",
+      "description": "Blueberries are small, sweet berries packed with nutrients. They can be eaten fresh, added to cereals, or blended into smoothies. Their vibrant blue color makes them a favorite.",
+      "nutritional_value": "Blueberries are loaded with antioxidants, particularly anthocyanins, which are good for heart health. They are also a great source of vitamin C and fiber. These tiny berries are low in calories yet nutrient-dense.",
+      "imageurl": "https://www.health.com/thmb/CtlUl-Ka_h64xiMh7c-eZWvs87c=/724x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-670247782-33772a33262945fc97802b6ddd63e5e0.jpg",
+      "price": 3.99,
+      "previous_price": 4.99,
+      "type": "Fruits"
+    },
+    {
+      "id": 11,
+      "name": "Ground Beef",
+      "description": "Ground beef is a versatile meat used in various dishes, from burgers to meatloaf. It is rich in flavor and can be seasoned in multiple ways. Lean cuts are commonly used in healthier recipes.",
+      "nutritional_value": "Ground beef is high in protein and essential minerals like iron and zinc. It provides B vitamins, which support energy metabolism. Choosing lean cuts reduces the fat content while maintaining the nutritional benefits.",
+      "imageurl": "https://foodie.sysco.com/wp-content/uploads/2019/08/Ground-Beef.jpg",
+      "price": 6.99,
+      "previous_price": 8.5,
+      "type": "Meat"
+    },
+    {
+      "id": 12,
+      "name": "Cheddar Cheese",
+      "description": "Cheddar cheese is a popular, firm cheese known for its sharp flavor. It can be sliced for sandwiches, grated for toppings, or melted in dishes. It comes in mild to extra sharp varieties.",
+      "nutritional_value": "Cheddar cheese is rich in calcium, essential for strong bones and teeth. It also provides protein and healthy fats. However, it should be consumed in moderation due to its higher saturated fat content.",
+      "imageurl": "https://5.imimg.com/data5/PR/MR/GY/SELLER-5113762/yellow-cheddar-cheese.jpg",
+      "price": 4.5,
+      "previous_price": 5.75,
+      "type": "Dairy"
+    },
+    {
+      "id": 13,
+      "name": "Potato Chips",
+      "description": "Potato chips are a crunchy and salty snack enjoyed worldwide. They come in various flavors, from classic salted to unique combinations. They are perfect for casual snacking.",
+      "nutritional_value": "Potato chips are a source of carbohydrates, providing quick energy. However, they are often high in fats and sodium, so moderation is key. Some varieties offer reduced-fat options for healthier snacking.",
+      "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Potato-Chips.jpg/800px-Potato-Chips.jpg",
+      "price": 2.75,
+      "previous_price": 3.25,
+      "type": "Snacks"
+    },
+    {
+      "id": 14,
+      "name": "Frozen Spinach",
+      "description": "Frozen spinach is a convenient way to add greens to your meals. It retains its nutrients and can be quickly steamed, sautéed, or added to dishes like soups and casseroles.",
+      "nutritional_value": "Frozen spinach is rich in iron and calcium, essential for maintaining strong bones and muscles. It also provides vitamin K and folate, which are important for blood clotting and cell health.",
+      "imageurl": "https://4.imimg.com/data4/KA/HJ/GLADMIN-179422/frozen-spinach-500x500.jpg",
+      "price": 2.0,
+      "previous_price": 2.5,
+      "type": "Frozen"
+    },
+    {
+      "id": 15,
+      "name": "Tilapia Fillet",
+      "description": "Tilapia fillets are mild, white fish that are easy to cook. They can be grilled, baked, or fried, and pair well with various seasonings. It's a favorite for those who prefer less 'fishy' tastes.",
+      "nutritional_value": "Tilapia is low in calories but high in protein, making it great for weight management. It is a good source of omega-3 and omega-6 fatty acids, which support heart health. It also provides selenium and phosphorus.",
+      "imageurl": "https://www.bigbasket.com/media/uploads/p/l/40075993-3_2-fresho-fish-fillet-tilapia.jpg",
+      "price": 7.5,
+      "previous_price": 9.0,
+      "type": "Fish"
+    },
+    {
+      "id": 16,
+      "name": "Brown Rice",
+      "description": "Brown rice is a whole grain option, perfect for health-conscious individuals. Its nutty flavor and chewy texture make it an excellent side dish. It retains more nutrients than white rice.",
+      "nutritional_value": "Brown rice is high in fiber, supporting digestive health and providing sustained energy. It contains magnesium, which is important for muscle and nerve function, and B vitamins for energy metabolism.",
+      "imageurl": "https://5.imimg.com/data5/CK/XQ/MY-31120275/organic-brown-rice-500x500.jpg",
+      "price": 3.2,
+      "previous_price": 4.0,
+      "type": "Wheat"
+    },
+    {
+      "id": 17,
+      "name": "Broccoli",
+      "description": "Broccoli is a nutrient-packed vegetable with a slightly bitter taste. It can be steamed, roasted, or eaten raw. It is often used in salads, stir-fries, and as a side dish.",
+      "nutritional_value": "Broccoli is rich in vitamin C and fiber, which support immune function and digestive health. It also contains compounds like sulforaphane, which may have cancer-preventive properties. It's low in calories but high in nutrition.",
+      "imageurl": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/health-benefits-of-broccoli-1296x728-feature.jpg?w=1155&h=1528",
+      "price": 1.75,
+      "previous_price": 2.1,
+      "type": "Vegetables"
+    },
+    {
+      "id": 18,
+      "name": "Oats",
+      "description": "Oats are a versatile whole grain commonly eaten for breakfast. They can be cooked into oatmeal, used in baking, or added to smoothies. Their heartiness keeps you full for hours.",
+      "nutritional_value": "Oats are high in soluble fiber, particularly beta-glucan, which can help reduce cholesterol levels. They also provide a good source of protein and slow-releasing carbohydrates, making them a perfect start to the day.",
+      "imageurl": "https://media.post.rvohealth.io/wp-content/uploads/2020/03/oats-oatmeal-732x549-thumbnail.jpg",
+      "price": 2.99,
+      "previous_price": 3.5,
+      "type": "Wheat"
+    },
+    {
+      "id": 19,
+      "name": "Bananas",
+      "description": "Bananas are a convenient, sweet fruit perfect for on-the-go snacking. They are highly versatile, being used in smoothies, baking, or eaten plain. Their natural sweetness makes them a favorite.",
+      "nutritional_value": "Bananas are an excellent source of potassium, which supports heart health and proper muscle function. They also provide vitamin B6 and fiber, aiding digestion. Their natural sugars offer a quick energy boost.",
+      "imageurl": "https://static.toiimg.com/thumb/112277997/112277997.jpg?height=746&width=420&resizemode=76&imgsize=1097393",
+      "price": 0.75,
+      "previous_price": 1.0,
+      "type": "Fruits"
+    },
+    {
+      "id": 20,
+      "name": "Peanut Butter",
+      "description": "Peanut butter is a creamy spread made from ground peanuts. It’s rich and satisfying, often used in sandwiches, snacks, or smoothies. It’s a good source of energy.",
+      "nutritional_value": "Peanut butter is high in healthy fats, mainly monounsaturated, and provides a good amount of protein. It is also rich in vitamins E and B3, as well as magnesium, supporting heart health and muscle function.",
+      "imageurl": "https://www.nuflowerfoods.com/blogs/wp-content/uploads/2023/09/globe.jpg",
+      "price": 3.5,
+      "previous_price": 4.25,
+      "type": "Snacks"
+    }
+  ]
+}
